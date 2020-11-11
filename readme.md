@@ -37,7 +37,7 @@ The methods to carry out the reconstruction of z and A were analitical:
 * knowing the velocity, the energy released in calorimeter and the momentum of the fragment, through relativistic relations, it was possible to take out the nuclear number A.
 
 In Fig.3 and Fig.4 the main results are shown.
-![z reconstruction] (z.pdf)
-![A reconstruction] (graficoA1.pdf)
+![z reconstruction](z.pdf)
+![A reconstruction](graficoA1.pdf)
 
 
